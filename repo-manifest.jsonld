@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-permissions-policy/commit/694b936384b4059b3557a24e174a712fd38abb92",
       "git:hexsha": "694b936384b4059b3557a24e174a712fd38abb92",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T13:42:39.659542+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-permissions-policy/commit/c44cbf5fb906fc40529f746998009fb4f97c4c4a",
