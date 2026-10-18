@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "django-permissions-policy",
+  "versions": [
+    {
+      "commit": "694b936384b4059b3557a24e174a712fd38abb92",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:42:39.660182+00:00"
+    }
+  ]
+}
